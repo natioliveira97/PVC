@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<intrinsic type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>3</cols>
+  <dt>d</dt>
+  <data>
+    7.3639901198632367e+02 0. 320. 0. 7.3508591473892307e+02 240. 0. 0.
+    1.</data></intrinsic>
+<desvioPadrao type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>3</cols>
+  <dt>d</dt>
+  <data>
+    1.3753369645609146e+02 0. 0. 0. 1.3620448419774593e+02 0. 0. 0. 0.</data></desvioPadrao>
+</opencv_storage>

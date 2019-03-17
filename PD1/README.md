@@ -6,11 +6,11 @@ Natalia Oliveira Borges - 16/0015863
 
 A implementação desse projeto foi dividida em 5 arquivos na pasta src:
 
-main.cpp
-imageClass.hpp
-imageClass.cpp
-functions.hpp
-functions.cpp
+* main.cpp
+* imageClass.hpp
+* imageClass.cpp
+* functions.hpp
+* functions.cpp
 
 Além desses arquivos, na pasta tembém há um arquivo CMakeLists.txt.
 
