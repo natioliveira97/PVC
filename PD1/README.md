@@ -12,11 +12,11 @@ imageClass.cpp
 functions.hpp
 functions.cpp
 
-Além desses arquivos, na pasta tembém há um arquivo CMakeLists.txt
+Além desses arquivos, na pasta tembém há um arquivo CMakeLists.txt.
 
 ## Relatório
 
-O relatório em pdf na pasta 'relatorio'
+O relatório em pdf na pasta 'relatorio'.
 
 ## Informações
 
@@ -24,18 +24,16 @@ Esse trabalho foi feito usando OpenCV 3.4.1 e para compilá-lo é necessario ter
 
 ## Como compilar esse projeto
 
-Para compilar, abra a pasta com o código fonte e digite:
+Para compilar, e digite:
 
 ```
-src/cmake .
-src/make
+cmake src
+make
 ```
 
-## Para executar esse projeto
-
-Para executar, faça:
+## Como executar esse projeto
 
 ```
-./src/pd1
+./pd1
 ```
 
