@@ -1,7 +1,8 @@
 # PD4
 
-Nome: Lívia Gomes Costa Fonseca
-Matrícula: 16/0034078
+Lívia Gomes Costa Fonseca - 16/0034078
+
+Natalia Oliveira Borges - 16/0015863
 
 ## Objetivos
 
