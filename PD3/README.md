@@ -11,7 +11,11 @@ O objetivo desse trabalho é lidar com imagens stereo e encontrar o mapa de disp
 
 Os mapas criados foram normalizados para melhor visualização. Para desnormalizar os mapas de disparidade e profundidade deve-se aplicar a fórmula inversa da normalização:
 
+
+\begin{equation}
 pixel_desnomalizado = \frac{pixel_normalizado*(max-min)}{255}-min
+\end{equation}
+
 
 ## Informações
 
