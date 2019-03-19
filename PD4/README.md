@@ -6,7 +6,7 @@ Natalia Oliveira Borges - 16/0015863
 
 ## Objetivos
 
-Nesse projeto abordamos a segmentação de imagens. O objetivo é delimitar os telhados presentes em imagens aéreas de algumas cidades. Para isso utilizamos o banco de imagens Inria Aerial Image Labeling [a link](https://project.inria.fr/aerialimagelabeling/).
+Nesse projeto abordamos a segmentação de imagens. O objetivo é delimitar os telhados presentes em imagens aéreas de algumas cidades. Para isso utilizamos o banco de imagens [Inria Aerial Image Labeling](https://project.inria.fr/aerialimagelabeling/).
 
 Utilizamos os métodos KNN, SVM e limiar de cor
 
