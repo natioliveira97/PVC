@@ -1,5 +1,3 @@
-
-
 # PD3
 
 Nome: Lívia Gomes Costa Fonseca
