@@ -13,7 +13,6 @@ Os mapas criados foram normalizados para melhor visualização. Para desnormaliz
 
 pixel_desnomalizado = pixel_normalizado*(max-min)/255-min
 
-
 ## Informações
 
 Esse trabalho foi feito em Linux Xubuntu versão 18.04 e em Linux Ubuntu versão 16.04, ambos usando Opencv versão 3.2.0. 
