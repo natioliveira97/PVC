@@ -1,3 +1,5 @@
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+
 # PD3
 
 Nome: Lívia Gomes Costa Fonseca
@@ -9,7 +11,7 @@ O objetivo desse trabalho é lidar com imagens stereo e encontrar o mapa de disp
 
 Os mapas criados foram normalizados para melhor visualização. Para desnormalizar os mapas de disparidade e profundidade deve-se aplicar a fórmula inversa da normalização:
 
-pixel_desnomalizado = \frac{\pixel_normalizado*(max-min)}{\255}-min
+pixel_desnomalizado = \frac{pixel_normalizado*(max-min)}{255}-min
 
 ## Informações
 
