@@ -6,7 +6,7 @@ Natalia Oliveira Borges - 16/0015863
 
 ## Objetivos
 
-Esse projeto aborda os conceitos de rasteramento em imagem. O objetivo é rastrear uma bola de futebol em um jogo de robôs humanoides. Para isso treinamos um classificador Haar Cascade.
+Esse projeto aborda os conceitos de rastreamento em imagem. O objetivo é rastrear uma bola de futebol em um jogo de robôs humanoides. Para isso treinamos um classificador Haar Cascade.
 
 
 ## Informações
